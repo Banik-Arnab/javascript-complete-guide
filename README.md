@@ -32,102 +32,30 @@ By completing this repository, you will be able to:
 - Build Real Projects
 
 
-# 🛣 Course Roadmap
+## 📚 Course Contents
 
+- 📁 [Getting Started](./01-Getting-Started)
+- 📁 [Variables & Data Types](./02-Variables-and-Data-Types)
+- 📁 [Operators & Control Flow](./03-Operators-and-Control-Flow)
+- 📁 [Loops](./04-Loops)
+- 📁 [Functions](./05-Functions)
+- 📁 [Arrays](./06-Arrays)
+- 📁 [Objects & JSON](./07-Objects-and-JSON)
+- 📁 [Scope, Hoisting & Closures](./08-Scope-Hoisting-and-Closures)
+- 📁 [DOM Manipulation](./09-DOM-Manipulation)
+- 📁 [Asynchronous JavaScript](./10-Asynchronous-JavaScript)
+- 📁 [Errors & Debugging](./11-Errors-and-Debugging)
+- 📁 [ES6+](./12-ES6-Plus)
+- 📁 [Big-O Analysis](./13-Big-O-Analysis)
+- 📁 [Searching Algorithms](./14-Searching-Algorithms)
+- 📁 [Sorting Algorithms](./15-Sorting-Algorithms)
+- 📁 [Stacks & Queues](./16-Stacks-and-Queues)
+- 📁 [Recursion](./17-Recursion)
+- 📁 [Linked Lists](./18-Linked-Lists)
+- 📁 [Hash Maps](./19-Hash-Maps)
+- 📁 [Trees](./20-Trees)
+- 📁 [Mini Projects](./21-Mini-Projects)
 
-Getting Started
-│
-▼
-Variables & Data Types
-│
-▼
-Operators & Control Flow
-│
-▼
-Loops
-│
-▼
-Functions
-│
-▼
-Arrays
-│
-▼
-Objects & JSON
-│
-▼
-Scope, Hoisting & Closures
-│
-▼
-DOM Manipulation
-│
-▼
-Asynchronous JavaScript
-│
-▼
-Errors & Debugging
-│
-▼
-ES6+
-│
-▼
-Big-O Analysis
-│
-▼
-Searching Algorithms
-│
-▼
-Sorting Algorithms
-│
-▼
-Stacks & Queues
-│
-▼
-Recursion
-│
-▼
-Linked Lists
-│
-▼
-Hash Maps
-│
-▼
-Trees
-│
-▼
-Mini Projects
-
-
-# 📚 Course Structure
-
-
-javascript-complete-guide
-│
-├── 01-Getting-Started
-├── 02-Variables-and-Data-Types
-├── 03-Operators-and-Control-Flow
-├── 04-Loops
-├── 05-Functions
-├── 06-Arrays
-├── 07-Objects-and-JSON
-├── 08-Scope-Hoisting-and-Closures
-├── 09-DOM-Document-Object-Model
-├── 10-Asynchronous-JavaScript
-├── 11-Errors-Debugging-and-Clean-Code
-├── 12-ES6-Toolbox
-├── 13-How-to-Think-About-Algorithms-Big-O
-├── 14-Searching-Algorithms
-├── 15-Sorting-Algorithms
-├── 16-Stacks-and-Queues
-├── 17-Recursion-Linked-Lists-and-Hash-Maps
-├── 18-Trees-and-Roadmap-Forward
-│
-├── Exercises
-├── Projects
-├── Notes
-├── Assets
-│
-└── README.md
 
 
 # 📖 Topics Covered
